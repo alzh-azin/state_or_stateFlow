@@ -1,6 +1,6 @@
 # Should You Use Compose State or StateFlow in Your ViewModels?
 
-### 3 Reasons why you should use stateFlow?
+### Three Reasons why you should use stateFlow?
 
 1. using flows allows you to use flow operators. You can use things like map, filter or combine all these powerful flow operators you don't have with compose data.
   
